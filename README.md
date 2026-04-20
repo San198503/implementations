@@ -1,1 +1,1 @@
-# implementations
+# Implementations\n\nA collection of pentesting tools and lab work.\n\n## Contents\n\n| Folder | Description |\n|--------|-------------|\n| web-app-pentesting | Web app exploitation labs |\n| network-scanning | Nmap and enum workflows |\n| privilege-escalation-lab | Linux/Windows privesc practice |
